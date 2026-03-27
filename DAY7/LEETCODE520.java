@@ -17,9 +17,9 @@ class LEETCODE520 {
         String word3 = "Google";
         String word4 = "FlaG";
 
-        System.out.println(word1 + " -> " + obj.detectCapitalUse(word1)); // true
-        System.out.println(word2 + " -> " + obj.detectCapitalUse(word2)); // true
-        System.out.println(word3 + " -> " + obj.detectCapitalUse(word3)); // true
-        System.out.println(word4 + " -> " + obj.detectCapitalUse(word4)); // false
+        System.out.println(word1 + " -> " + obj.detectCapitalUse(word1)); 
+        System.out.println(word2 + " -> " + obj.detectCapitalUse(word2)); 
+        System.out.println(word3 + " -> " + obj.detectCapitalUse(word3)); 
+        System.out.println(word4 + " -> " + obj.detectCapitalUse(word4)); 
     }
 }
