@@ -48,8 +48,7 @@ class longestMountainSubArray {
     }
 
     public static void main(String[] args) {
-        int[] a = {1, 5, 7, 6, 4, 3};
-
+        int[] a = {1, 3, 2, 4, 6, 5};
         longestMountainSubArray obj = new longestMountainSubArray();
         int[] res = obj.longestMountainSubArray(a);
 
